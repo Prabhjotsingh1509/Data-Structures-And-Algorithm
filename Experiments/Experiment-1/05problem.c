@@ -8,40 +8,47 @@ int main()
     int i, j, k;
     int r1, c1, r2, c2;
 
-    int *p1 = &a1[0][0];
-    int *p2 = &a2[0][0];
-    int *pc = &c[0][0];
+    int (*p1)[50] = a1;
+    int (*p2)[50] = a2;
+    int (*pc)[50] = c;
+
     printf("Enter the no of rows you want:");
     scanf("%d", &r1);
     printf("Enter the no of rows you want:");
     scanf("%d", &c1);
-
-    for (i = 0; i < r1; i++)
-    {
-        for (j = 0; j < c1; j++)
-        {
-            scanf("%d", (p1 + i * 50 + j));
-        }
-    }
     printf("Enter the no of rows you want:");
     scanf("%d", &r2);
     printf("Enter the no of rows you want:");
     scanf("%d", &c2);
+    if (c1 != r2)
+    {
+        printf("Multiplication is not possible");
+        return 0;
+    }
+    printf("Enter the element of first matrix");
+    for (i = 0; i < r1; i++)
+    {
+        for (j = 0; j < c1; j++)
+        {
+            scanf("%d", (*(a1 + i) + j));
+        }
+    }
+    printf("Enter the element of second matrix");
     for (i = 0; i < r2; i++)
     {
         for (j = 0; j < c2; j++)
         {
-            scanf("%d", (p2 + i * 50 + j));
+            scanf("%d", (*(a2 + i) + j));
         }
     }
     for (i = 0; i < r1; i++)
     {
         for (j = 0; j < c2; j++)
         {
-            *(pc + i * 50 + j) = 0;
+            *(*(c + i) + j) = 0;
             for (k = 0; k < c1; k++)
             {
-                *(pc + i * 50 + j) += (*(p1 + i * 50 + k)) * (*(p2 + k * 50 + j));
+                *(*(c + i) + j) += *(*(a1 + i) + k) * (*(*(a2 + k) + j));
             }
         }
     }
@@ -49,7 +56,7 @@ int main()
     {
         for (j = 0; j < c2; j++)
         {
-            printf("%d ", *(pc + i * 50 + j));
+            printf("%d ", *(*(c + i) + j));
         }
         printf("\n");
     }
