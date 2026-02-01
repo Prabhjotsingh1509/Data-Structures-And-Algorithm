@@ -1,0 +1,27 @@
+Beginner Level Recursion Questions
+
+Write a C program using recursion to print numbers from 1 to N.
+
+Write a C program using recursion to print numbers from N to 1.
+
+Write a C program using recursion to find the factorial of a given number.
+
+Write a C program using recursion to calculate xⁿ (power of a number) without using any loop or library function.
+
+Write a C program using recursion to count the number of digits in a given number.
+
+⚡ Intermediate Level Recursion Questions
+
+Write a C program using recursion to reverse a given number.
+
+Write a C program using recursion to check whether a given number is a palindrome.
+
+Write a C program using recursion to print the Fibonacci series up to N terms.
+
+Write a C program using recursion to find the Nth Fibonacci number.
+
+Advanced Level Recursion Questions
+
+Write a C program using recursion to check whether a given string is a palindrome.
+
+Write a C program using recursion to find the length of a string without using strlen().
