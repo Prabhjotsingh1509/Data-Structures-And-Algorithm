@@ -1,0 +1,52 @@
+BASIC POINTER QUESTIONS
+
+Write a C program to declare an integer variable and a pointer to it. Print the value and address using the pointer.
+
+Write a program to change the value of a variable using a pointer.
+
+Write a program to swap two numbers using pointers.
+
+Write a program to find the sum of two numbers using pointers.
+
+🟡 POINTERS WITH ARRAYS
+
+Write a program to access array elements using pointers instead of array indexing.
+
+Write a program to find the sum of all elements of an array using pointers.
+
+Write a program to find the largest element in an array using pointers.
+
+Write a program to print an array in reverse order using pointers only.
+
+🟠 POINTERS WITH STRINGS
+
+Write a program to find the length of a string using pointers (without using strlen()).
+
+Write a program to copy one string to another using pointers.
+
+Write a program to compare two strings using pointers (without using strcmp()).
+
+🔵 POINTERS WITH FUNCTIONS
+
+Write a program to pass an array to a function using pointers.
+
+Write a function that returns a pointer to the largest element of an array.
+
+Write a program to calculate sum and average of array elements using pointers and functions.
+
+Write a program to swap two arrays using pointers.
+
+🔴 ADVANCED POINTER QUESTIONS
+
+Write a program to demonstrate pointer to pointer.
+
+Write a program to create an array of pointers.
+
+Write a program to demonstrate the difference between pointer to array and array of pointers.
+
+Write a program to dynamically allocate memory for an integer using malloc() and free().
+
+Write a program to create a dynamic array using pointers and find its sum.
+
+Write a program to demonstrate a memory leak and then fix it.
+
