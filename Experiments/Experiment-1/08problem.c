@@ -5,7 +5,7 @@
 int main()
 {
     int arr[] = {10, 20, 30, 40, 50, 60, 70};
-    int low = 0, mid, upper = 6, k;
+    int low = 0, mid, upper = 6, k, found = -1;
 
     printf("Enter the element you want to search:");
     scanf("%d", &k);
@@ -14,7 +14,8 @@ int main()
         int mid = low + (upper - low) / 2;
         if (arr[mid] == k)
         {
-            printf("%d", arr[mid]);
+            found = 1;
+            printf("%d", mid);
             break;
         }
         else if (arr[mid] < k)
@@ -25,6 +26,10 @@ int main()
         {
             upper = mid - 1;
         }
+    }
+    if (found == -1)
+    {
+        printf("not found");
     }
     return 0;
 }
