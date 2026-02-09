@@ -38,15 +38,9 @@ Write a program to swap two arrays using pointers.
 
 🔴 ADVANCED POINTER QUESTIONS
 
-Write a program to demonstrate pointer to pointer.
-
 Write a program to create an array of pointers.
 
 Write a program to demonstrate the difference between pointer to array and array of pointers.
-
-Write a program to dynamically allocate memory for an integer using malloc() and free().
-
-Write a program to create a dynamic array using pointers and find its sum.
 
 Write a program to demonstrate a memory leak and then fix it.
 
