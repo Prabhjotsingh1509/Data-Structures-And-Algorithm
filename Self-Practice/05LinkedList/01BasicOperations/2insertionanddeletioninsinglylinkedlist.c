@@ -9,6 +9,12 @@ struct Node *head = NULL;
 void display()
 {
     struct Node *ptr = head;
+
+    if (ptr == NULL)
+    {
+        printf("list is empty");
+        return;
+    }
     if (ptr == NULL)
     {
         printf("Empty List");
@@ -22,11 +28,7 @@ void display()
 void insertatbeginning(int data)
 {
     struct Node *new = malloc(sizeof(struct Node));
-    if (head == NULL)
-    {
-        head=new;
-    }
-    
+
     new->data = data;
     new->next = head;
     head = new;
@@ -67,6 +69,7 @@ void insertatend(int data)
     new->data = data;
     if (head == NULL)
     {
+        new->next = NULL;
         head = new;
         return;
     }
@@ -81,6 +84,11 @@ void deleteatbeginning()
 {
     struct Node *temp = head;
 
+    if (head == NULL)
+    {
+        printf("List is empty");
+        return;
+    }
     head = head->next;
     temp->next = NULL;
 
@@ -125,11 +133,12 @@ void deleteatend()
     }
     if (head->next == NULL)
     {
+        free(head);
         head = NULL;
         return;
     }
 
-    while (temp != NULL)
+    while (temp->next != NULL)
     {
         prev = temp;
         temp = temp->next;
