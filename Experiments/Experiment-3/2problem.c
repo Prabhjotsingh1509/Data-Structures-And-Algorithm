@@ -117,3 +117,12 @@ void Peek_Prabhjot()
 
     printf("Top Element is: %d\n", top->data);
 }
+void Display_Prabhjot()
+{
+    struct Node *temp = top;
+    printf("The data of the stack is ");
+    while (temp != NULL)
+    {
+        printf("%d\t", temp->data);
+    }
+}
