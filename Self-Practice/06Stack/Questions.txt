@@ -1,0 +1,121 @@
+Q1. Stack Implementation (Array)
+
+Write a program to implement a stack using an array. Support the following operations:
+
+Push
+Pop
+Peek
+Display
+Also handle overflow and underflow conditions.
+Q2. Stack Implementation (Linked List)
+
+Write a program to implement a stack using a linked list with dynamic memory allocation.
+
+Q3. Reverse a String Using Stack
+
+Given a string, reverse it using a stack.
+
+Input: "hello"
+Output: "olleh"
+
+Q4. Valid Parentheses
+
+Given a string containing (), {}, [], determine if it is valid.
+
+Input: "({[]})"
+Output: Valid
+
+Q5. Next Greater Element (Basic)
+
+Given an array, find the next greater element for each element.
+
+Input: [4, 5, 2, 25]
+Output: [5, 25, 25, -1]
+
+🟡 MEDIUM LEVEL
+Q6. Min Stack
+
+Design a stack that supports:
+
+push()
+pop()
+top()
+getMin() → returns minimum element in O(1)
+Q7. Infix to Postfix Conversion
+
+Convert an infix expression into postfix.
+
+Input: A + B * C
+Output: ABC*+
+
+Q8  Postfix Expression Evaluation
+
+Evaluate a postfix expression.
+
+Input: "23*54*+9-"
+Output: 17
+
+Q09. Stock Span Problem
+
+Given daily stock prices, find the span for each day.
+
+Input: [100, 80, 60, 70, 60, 75, 85]
+Output: [1, 1, 1, 2, 1, 4, 6]
+
+Q10. Next Greater Element (Optimized)
+
+Solve next greater element using stack in O(n).
+
+Q11. Previous Smaller Element
+
+Find the nearest smaller element to the left for each element.
+
+Input: [4, 5, 2, 10, 8]
+Output: [-1, 4, -1, 2, 2]
+
+Q12. Largest Rectangle in Histogram
+
+Given heights of bars, find the largest rectangular area.
+
+Input: [2,1,5,6,2,3]
+Output: 10
+
+🔴 HARD LEVEL
+Q13. Trapping Rain Water
+
+Given an array representing elevation, compute trapped water.
+
+Input: [0,1,0,2,1,0,1,3,2,1,2,1]
+Output: 6
+
+Q14. Maximum Rectangle in Binary Matrix
+
+Given a binary matrix, find the largest rectangle of 1s.
+
+Q15. Remove K Digits
+
+Remove k digits to make the smallest possible number.
+
+Input: "1432219", k = 3
+Output: "1219"
+Q16. Sliding Window Maximum
+
+Find maximum in every window of size k.
+
+Input: [1,3,-1,-3,5,3,6,7], k=3
+Output: [3,3,5,5,6,7]
+
+Q17. Celebrity Problem
+
+Find if a celebrity exists in a party of N people.
+
+Conditions:
+
+Everyone knows celebrity
+Celebrity knows no one
+Q18. Decode String
+
+Decode encoded string.
+
+Input: "3[a2[c]]"
+Output: "accaccacc"
