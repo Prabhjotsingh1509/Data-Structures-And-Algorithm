@@ -21,7 +21,21 @@ void enqueue(int data)
 
     printf("Inserted: %d\n", data);
 }
+void dequeue()
+{
+    if (front == -1)
+    {
+        printf("Queue is empty");
+        return;
+    }
+    front++;
 
+    if (front > rear)
+    {
+        front = rear = -1;
+    }
+    return;
+}
 void display()
 {
     if (front == -1)
@@ -43,7 +57,7 @@ int main()
 
     while (1)
     {
-        printf("\n1. Insert\n2. Display\n3. Exit\n");
+        printf("\n1. Insert\n2. Display\n3. Delete\n4. Exit\n");
         scanf("%d", &choice);
 
         switch (choice)
@@ -56,8 +70,10 @@ int main()
         case 2:
             display();
             break;
-
         case 3:
+            dequeue();
+            break;
+        case 4:
             return 0;
         }
     }

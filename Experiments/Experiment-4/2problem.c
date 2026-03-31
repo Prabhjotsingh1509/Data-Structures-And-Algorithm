@@ -30,7 +30,18 @@ void enqueue(int data)
 
     printf("Inserted: %d\n", data);
 }
+void dequeue()
+{
+    if (front == NULL)
+    {
+        printf("List is empty");
+        return;
+    }
+    struct Node *temp = front;
 
+    front = front->next;
+    free(temp);
+}
 void display()
 {
     if (front == NULL)
@@ -54,7 +65,7 @@ int main()
 
     while (1)
     {
-        printf("\n1. Enqueue\n2. Display\n3. Exit\n");
+        printf("\n1. Enqueue\n2. Display\n3. Delete\n4.Exit\n");
         scanf("%d", &choice);
 
         switch (choice)
@@ -69,6 +80,9 @@ int main()
             break;
 
         case 3:
+            dequeue();
+            break;
+        case 4:
             return 0;
         }
     }
