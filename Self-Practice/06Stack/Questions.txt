@@ -62,18 +62,14 @@ Given daily stock prices, find the span for each day.
 Input: [100, 80, 60, 70, 60, 75, 85]
 Output: [1, 1, 1, 2, 1, 4, 6]
 
-Q10. Next Greater Element (Optimized)
-
-Solve next greater element using stack in O(n).
-
-Q11. Previous Smaller Element
+Q10. Previous Smaller Element
 
 Find the nearest smaller element to the left for each element.
 
 Input: [4, 5, 2, 10, 8]
 Output: [-1, 4, -1, 2, 2]
 
-Q12. Largest Rectangle in Histogram
+Q11. Largest Rectangle in Histogram
 
 Given heights of bars, find the largest rectangular area.
 
