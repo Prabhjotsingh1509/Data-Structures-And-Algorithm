@@ -41,6 +41,10 @@ void dequeue()
 
     front = front->next;
     free(temp);
+    if (front == NULL)
+    {
+        rear = NULL;
+    }
 }
 void display()
 {
