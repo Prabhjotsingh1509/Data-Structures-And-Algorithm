@@ -18,6 +18,7 @@ int main()
 
     printf("Enter the string");
     fgets(str, 100, stdin);
+    str[strcspn(str, "\n")] = '\0';
 
     while (str[i] != '\0')
     {
@@ -25,7 +26,6 @@ int main()
         stack[top] = str[i];
         i++;
     }
-    str[strcspn(str, "\n")] = '\0';
     while (top >= 0)
     {
         printf("%c", stack[top]);

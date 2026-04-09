@@ -22,15 +22,15 @@ int count = 0;
 
 struct Node *push(int data)
 {
-    if (top == count)
+    if (count == SIZE)
     {
         printf("stackoverflow");
-        return;
+        return NULL;
     }
     struct Node *newnode = (struct Node *)malloc(sizeof(struct Node));
     newnode->data = data;
     newnode->next = top;
-    newnode = top;
+    top = newnode;
     count++;
     printf("Stack is pushed");
     return top;
@@ -65,6 +65,7 @@ void display()
     while (temp != NULL)
     {
         printf("%d\t", temp->data);
+        temp = temp->next;
     }
 }
 int main()
@@ -73,9 +74,10 @@ int main()
 
     while (1)
     {
+        scanf("%d", &n);
+
         switch (n)
         {
-            scanf("%d", &n);
         case 1:
             scanf("%d", &data);
             push(data);

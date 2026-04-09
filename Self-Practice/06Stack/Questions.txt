@@ -84,10 +84,6 @@ Given an array representing elevation, compute trapped water.
 Input: [0,1,0,2,1,0,1,3,2,1,2,1]
 Output: 6
 
-Q14. Maximum Rectangle in Binary Matrix
-
-Given a binary matrix, find the largest rectangle of 1s.
-
 Q15. Remove K Digits
 
 Remove k digits to make the smallest possible number.
