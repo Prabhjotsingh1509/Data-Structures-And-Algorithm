@@ -3,10 +3,11 @@
 Convert an infix expression into postfix.
 
 Input: A + B * C
-Output: ABC*+
+Output:+B*AC
 */
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
 #define SIZE 100
 char stack[SIZE];
@@ -81,7 +82,25 @@ int main()
     char pos[SIZE];
     printf("Enter the infix expression");
     scanf("%s", str);
+    int start = 0;
+    int end = strlen(str) - 1;
+    while (start < end)
+    {
 
+        char temp = str[start];
+        str[start] = str[end];
+        str[end] = temp;
+        start++;
+        end--;
+    }
+    for (int k = 0; str[k] != '\0'; k++)
+    {
+        if (str[k] == '(')
+            str[k] = ')';
+        else if (str[k] == ')')
+            str[k] = '(';
+    }
+    // printf("%s", str);
     while (str[i] != '\0')
     {
         if (isoperand(str[i]) == 1)
@@ -94,7 +113,7 @@ int main()
         }
         else if (str[i] == ')')
         {
-            while (!isempty() && stack[top] != '(')
+            while (stack[top] != '(')
             {
                 pos[j++] = pop();
             }
@@ -115,6 +134,7 @@ int main()
         pos[j++] = pop();
     }
     pos[j] = '\0';
+    strrev(pos);
     printf("%s", pos);
     return 0;
 }

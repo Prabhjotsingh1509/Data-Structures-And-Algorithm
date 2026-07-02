@@ -73,6 +73,7 @@ void insertatpos(int data, int pos)
     {
         temp1 = temp1->next;
     }
+    temp1->next->prev = newnode;
     newnode->next = temp1->next;
     newnode->prev = temp1;
     temp1->next = newnode;

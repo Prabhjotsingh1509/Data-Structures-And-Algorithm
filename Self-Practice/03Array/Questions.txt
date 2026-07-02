@@ -1,0 +1,65 @@
+TWO POINTERS (ARRAY ONLY)
+
+Given an array containing only 0s, 1s and 2s, sort the array without using any sorting algorithm.
+
+Given a sorted array, remove duplicates in-place and return the new length.
+
+Given an array, move all zeros to the end while maintaining the relative order of non-zero elements.
+
+Given a sorted array and a target value, find two elements whose sum is equal to the target.
+
+Given an integer array, find all unique triplets whose sum is equal to zero.
+
+Given an array representing heights of bars, calculate how much rain water can be trapped.
+
+Given an array of heights, find two elements such that the area between them is maximum.
+
+SLIDING WINDOW (ARRAY ONLY)
+
+Given an array of integers and an integer k, find the maximum sum of any subarray of size k.
+
+Given an array of integers and an integer k, find the length of the longest subarray whose sum is equal to k.
+
+Given an array of integers and an integer k, find the length of the longest subarray whose sum is less than or equal to k.
+
+Given an array of integers and an integer k, count the number of subarrays of size k having average greater than or equal to a given value.
+
+PREFIX SUM + HASHMAP (ARRAY ONLY)
+
+Given an array of integers and an integer k, count the total number of subarrays whose sum is equal to k.
+
+Given an array of integers, count the number of subarrays whose sum is zero.
+
+Given an array of integers and an integer k, count the number of subarrays whose sum is divisible by k.
+
+Given an array of integers, find the index where the sum of elements on the left is equal to the sum on the right.
+
+SORTING BASED (ARRAY ONLY)
+
+Given two sorted arrays, merge them into a single sorted array.
+
+Given an array of integers, find the kth smallest element.
+
+Given an array of integers, count the number of inversions in the array.
+
+Given an array of integers, rearrange the array such that positive and negative numbers appear alternately.
+
+BINARY SEARCH ON ARRAY
+
+Given a sorted array and a target value, implement binary search to find the index of the target.
+
+Given a sorted array, find the first and last occurrence of a given element.
+
+Given a rotated sorted array, find the minimum element.
+
+Given a rotated sorted array, search for a given element.
+
+Given a sorted array, find the square root of a number using binary search.
+
+KADANE / SUBARRAY
+
+Given an array of integers, find the contiguous subarray with the maximum sum.
+
+Given an array of integers, find the contiguous subarray with the maximum product.
+
+Given an array of integers, find the maximum circular subarray sum.
