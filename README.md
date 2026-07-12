@@ -31,8 +31,10 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 
 ---
 <!---LeetCode Topics Start-->
-## 📂 Repository Structure
 # LeetCode Topics
+## 📂 Repository Structure
+|  |
+| ------- |
 ## Array
 |  |
 | ------- |
@@ -56,4 +58,5 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
