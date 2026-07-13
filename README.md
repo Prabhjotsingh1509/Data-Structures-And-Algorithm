@@ -55,6 +55,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
