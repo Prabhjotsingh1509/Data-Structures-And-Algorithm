@@ -67,9 +67,10 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
-| [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
