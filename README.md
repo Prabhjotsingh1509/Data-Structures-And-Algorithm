@@ -85,8 +85,4 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0203-remove-linked-list-elements) |
-<!---LeetCode Topics End-->Algorithms (in C)
-
-This repository is dedicated to learning and practicing **Data Structures and Algorithms (DSA)** using the **C programming language**. It includes structured problem solving on leetcode build strong problem-solving skills step by step.
-
----
+<!---LeetCode Topics End-->
