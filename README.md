@@ -80,9 +80,14 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0234-palindrome-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0203-remove-linked-list-elements) |
+## Math
+|  |
+| ------- |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
