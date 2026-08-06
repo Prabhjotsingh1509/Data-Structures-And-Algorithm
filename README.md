@@ -43,6 +43,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 ## Binary Search
 |  |
@@ -98,12 +99,22 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
