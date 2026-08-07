@@ -117,4 +117,12 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
