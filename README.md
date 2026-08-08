@@ -76,6 +76,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
