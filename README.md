@@ -126,4 +126,16 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
