@@ -63,6 +63,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0142-linked-list-cycle-ii](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Matrix
@@ -130,6 +131,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -138,4 +140,12 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+## String
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
