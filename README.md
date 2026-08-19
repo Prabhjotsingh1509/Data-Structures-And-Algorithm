@@ -45,6 +45,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0162-find-peak-element](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 ## Binary Search
 |  |
 | ------- |
@@ -131,6 +132,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
+| [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
@@ -147,5 +149,6 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
