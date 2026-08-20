@@ -131,6 +131,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0225-implement-stack-using-queues) |
 | [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
@@ -145,10 +146,19 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0844-backspace-string-compare) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
