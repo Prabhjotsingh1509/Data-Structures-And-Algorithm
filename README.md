@@ -44,6 +44,7 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 | [0074-search-a-2d-matrix](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0215-kth-largest-element-in-an-array) |
+| [0416-partition-equal-subset-sum](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0682-baseball-game](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 ## Binary Search
@@ -157,8 +158,17 @@ This repository is part of my **self-learning journey**. Suggestions and improve
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+| [0416-partition-equal-subset-sum](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0032-longest-valid-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/Prabhjotsingh1509/Data-Structures-And-Algorithm/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
